@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Salam 👋, I'm Jabir</h1>
 <h3 align="center">A cybersecurity enthusiast</h3>
+
 <img
   align="right"
   alt="Coding"
@@ -24,8 +26,10 @@
 </p>
 
 - 🔭 I’m currently working on **profiling an Arduino Uno program to determine
-its code coverage** - 🌱 I’m currently learning **Ethical Hacking with Python,
-Advanced Learning Algorithms, Website Penetration Testing** - 👨‍💻 All of my
+its code coverage** 
+- 🌱 I’m currently learning **Ethical Hacking with Python,
+Advanced Learning Algorithms, Website Penetration Testing** 
+- 👨‍💻 All of my
 projects are available at
 [https://github.com/skywalker-alt327](https://github.com/skywalker-alt327) - 💬
 Chat with me about **computer science, sports (soccer, cricket, f1), films.** -
