@@ -160,6 +160,7 @@
 					<td width="25%" align="center">
 						<span><strong>AWS</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -183,11 +184,6 @@
      					<td width="25%" align="center">
 						<span><strong>Arduino</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
-					</td>
-    
-     					<td width="25%" align="center">
-						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Matlab</strong></span><br/>
