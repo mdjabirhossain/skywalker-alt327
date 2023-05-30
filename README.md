@@ -1,5 +1,5 @@
 <h1 align="center">Salam 👋, I'm Jabir</h1>
-<h3 align="center">A cybersecurity enthusiast</h3>
+<h3 align="center">A CS & CS enthusiast</h3>
 <img
   align="right"
   alt="Coding"
