@@ -1,265 +1,242 @@
-[![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)](https://rishavchanda.io)
-
-<h1 align="center">Salam 👋, I'm Jabir</h1>
-<h3 align="center">A cybersecurity enthusiast</h3>
-
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
-/>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=skywalker-alt327&label=Profile%20views&color=0e75b6&style=flat"
-    alt="skywalker-alt327"
-  />
+![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+<!-- Header start -->
+<h1 align="center"> 👋 Salam! Welcome to my Github profile!</a>
+<h1 align="center">I'm <a href="" >Jabir</a></h1>
+<p align="center">
+<a href="https://twitter.com/Hossain_M_J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-jabir-hossain-1a5454192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008394556524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
 </p>
+<img align ="right" alt "Coding" height="280" width="280" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif">
 
-<p align="left">
-  <a href="https://twitter.com/hossain_m_j" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/hossain_m_j?logo=twitter&style=for-the-badge"
-      alt="hossain_m_j"
-  /></a>
-</p>
+<!-- Header end -->
 
-- 🔭 I’m currently working on **profiling an Arduino Uno program to determine
-its code coverage** 
-- 🌱 I’m currently learning **Ethical Hacking with Python,
-Advanced Learning Algorithms, and Website Penetration Testing** 
-- 👨‍💻 All of my
-projects are available at
-[https://github.com/skywalker-alt327](https://github.com/skywalker-alt327) 
-- 💬 Chat with me about **computer science, sports (soccer, cricket, f1), films.** 
-- 📫 How to reach me **https://www.linkedin.com/in/md-jabir-hossain-1a5454192/** 
-- 📄 Know about my experiences
-[https://github.com/skywalker-alt327/resume/blob/main/Resume_Jabir.pdf](https://github.com/skywalker-alt327/resume/blob/main/Resume_Jabir.pdf)
-- ⚡ Fun fact **I have been abroad by myself since high school and since then I have lived in three
-countries.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hossain_m_j" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="hossain_m_j"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/skywalker-alt327" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="skywalker-alt327"
-      height="30"
-      width="40"
-  /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
-      alt="circleci"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-      alt="matlab"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+ <!-- GitHub About me section start -->
+ ## 👨‍💻About Me:
+- ✨ A Computer Science major at University of Florida.
+- 🚀 I’m interested in Cybersecurity, Systems Programming, and Machine Learning. 
+- 🌱 I’m currently learning Ethhical Hacking with Python, Advanced Learning Algorithms, and Website Penetration Testing. 
+- 👨‍💻 All of my projects are available at [https://github.com/skywalker-alt327](https://github.com/skywalker-alt327)
+<!--  profile views <p align="center"> <img src="" alt="" /> </p> -->
+<!-- GitHub About me section end -->
 
-<p>
+
+<!-- GitHub Skills start -->
+## 🎓Tools and Technologies:
+- **Programming Languages**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td align="center">
+						<span><strong>Wordpress</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td  align="center">
+						<span><strong>Wix</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>TypeScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
+					</td>
+					<td align="center">
+						<span><strong>TypeScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Databases**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>MySql</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Hive</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **web Hosting Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Heroku</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Netlify</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
+					</td>
+     
+     <td width="25%" align="center">
+						<span><strong>Github pages</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+					</td>
+					     <td width="25%" align="center">
+						<span><strong>Vercel</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **AI/ML**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Tensorflow</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>OpenCV</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+					</td>
+     <td width="25%" align="center">
+						<span><strong>PyTorch</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+					</td>
+      <td width="25%" align="center">
+						<span><strong>NumPy</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Designing Softwares:**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Figma</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Canva</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+					</td>
+					</tr>
+			</tbody>
+		</table>
+	</center>
+- **Cloud Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>IBM</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>AWS</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+					</td>
+     
+     <td width="25%" align="center">
+						<span><strong>Azure</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Others**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Linux</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>git</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+					</td>
+     <td width="25%" align="center">
+						<span><strong>github</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+					</td>
+      <td width="25%" align="center">
+						<span><strong>Bitbucket</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
+					</td>
+
+     <td width="25%" align="center">
+						<span><strong>Arduino</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+					</td>
+    
+     <td width="25%" align="center">
+						<span><strong>Flask</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Matlab</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+<!-- GitHub Skills end -->
+  
+<!-- GitHub Stats start -->
+  <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=skywalker-alt327&show_icons=true&locale=en&layout=compact"
@@ -282,3 +259,6 @@ countries.**
     alt="skywalker-alt327"
   />
 </p>
+<!-- GitHub Stats end -->
+
+
