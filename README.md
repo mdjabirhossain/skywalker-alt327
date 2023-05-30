@@ -83,8 +83,7 @@
 					<td width="25%" align="center">
 						<span><strong>MongoDB</strong></span><br/>
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
-					</td>
-					
+					</td>	
 				</tr>
 			</tbody>
 		</table>
