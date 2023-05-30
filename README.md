@@ -15,10 +15,10 @@
 
  <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
-- ✨ A Computer Science major at University of Florida.
+- ✨ I'm a Computer Science major at University of Florida.
 - 🚀 I’m interested in Cybersecurity, Systems Programming, and Machine Learning. 
 - 🌱 I’m currently learning Ethhical Hacking with Python, Advanced Learning Algorithms, and Website Penetration Testing. 
-- 👨‍💻 All of my projects are available at [https://github.com/skywalker-alt327](https://github.com/skywalker-alt327)
+- 👨‍💻 My projects are available at [https://github.com/skywalker-alt327](https://github.com/skywalker-alt327)
 <!--  profile views <p align="center"> <img src="" alt="" /> </p> -->
 <!-- GitHub About me section end -->
 
@@ -123,15 +123,7 @@
 						<span><strong>Tensorflow</strong></span><br/>
 						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 					</td>
-					<td width="25%" align="center">
-						<span><strong>OpenCV</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-					</td>
-     <td width="25%" align="center">
-						<span><strong>PyTorch</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-					</td>
-      <td width="25%" align="center">
+      					<td width="25%" align="center">
 						<span><strong>NumPy</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
 					</td>
@@ -139,7 +131,7 @@
 			</tbody>
 		</table>
 	</center>
-- **Designing Softwares:**
+<!-- - **Designing Softwares:**
 	<center>
 		<table>
 			<tbody>
@@ -155,7 +147,7 @@
 					</tr>
 			</tbody>
 		</table>
-	</center>
+	</center> -->
 - **Cloud Platforms**
 	<center>
 		<table>
@@ -168,12 +160,6 @@
 					<td width="25%" align="center">
 						<span><strong>AWS</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-					</td>
-     
-     <td width="25%" align="center">
-						<span><strong>Azure</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-					</td>
 				</tr>
 			</tbody>
 		</table>
@@ -191,21 +177,15 @@
 						<span><strong>git</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 					</td>
-     <td width="25%" align="center">
+     					<td width="25%" align="center">
 						<span><strong>github</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-					</td>
-      <td width="25%" align="center">
-						<span><strong>Bitbucket</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
-					</td>
-
-     <td width="25%" align="center">
+     					<td width="25%" align="center">
 						<span><strong>Arduino</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
 					</td>
     
-     <td width="25%" align="center">
+     					<td width="25%" align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 					</td>
