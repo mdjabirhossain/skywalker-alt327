@@ -31,12 +31,20 @@
 			<tbody>
 				<tr>
 					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Java</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -54,10 +62,6 @@
 					<td align="center">
 						<span><strong>CSS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
