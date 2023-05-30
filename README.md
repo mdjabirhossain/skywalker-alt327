@@ -31,10 +31,10 @@ its code coverage**
 Advanced Learning Algorithms, Website Penetration Testing** 
 - 👨‍💻 All of my
 projects are available at
-[https://github.com/skywalker-alt327](https://github.com/skywalker-alt327) - 💬
-Chat with me about **computer science, sports (soccer, cricket, f1), films.** -
-📫 How to reach me **https://www.linkedin.com/in/md-jabir-hossain-1a5454192/** -
-📄 Know about my experiences
+[https://github.com/skywalker-alt327](https://github.com/skywalker-alt327) 
+- 💬 Chat with me about **computer science, sports (soccer, cricket, f1), films.** 
+- 📫 How to reach me **https://www.linkedin.com/in/md-jabir-hossain-1a5454192/** 
+- 📄 Know about my experiences
 [https://github.com/skywalker-alt327/resume/blob/main/Resume_Jabir.pdf](https://github.com/skywalker-alt327/resume/blob/main/Resume_Jabir.pdf)
 - ⚡ Fun fact **I have been abroad since high school and I have lived in three
 countries.**
