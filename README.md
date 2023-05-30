@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on **profiling an Arduino Uno program to determine
 its code coverage** 
 - 🌱 I’m currently learning **Ethical Hacking with Python,
-Advanced Learning Algorithms, Website Penetration Testing** 
+Advanced Learning Algorithms, and Website Penetration Testing** 
 - 👨‍💻 All of my
 projects are available at
 [https://github.com/skywalker-alt327](https://github.com/skywalker-alt327) 
@@ -36,7 +36,7 @@ projects are available at
 - 📫 How to reach me **https://www.linkedin.com/in/md-jabir-hossain-1a5454192/** 
 - 📄 Know about my experiences
 [https://github.com/skywalker-alt327/resume/blob/main/Resume_Jabir.pdf](https://github.com/skywalker-alt327/resume/blob/main/Resume_Jabir.pdf)
-- ⚡ Fun fact **I have been abroad since high school and I have lived in three
+- ⚡ Fun fact **I have been abroad by myself since high school and since then I have lived in three
 countries.**
 
 <h3 align="left">Connect with me:</h3>
